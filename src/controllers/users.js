@@ -1,3 +1,5 @@
+// Controlador para interagir com o banco de dados
+
 class UsersController {
   constructor (User) {
     this.User = User

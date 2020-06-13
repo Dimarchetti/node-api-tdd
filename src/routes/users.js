@@ -1,3 +1,5 @@
+// Rota de usuários que faz uso do controller para cada um dos métodos
+
 import express from 'express'
 import UsersController from '../controllers/users'
 import User from '../models/users'
